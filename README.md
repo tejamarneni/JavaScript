@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript Files
+This repository has JavaScript Files.
